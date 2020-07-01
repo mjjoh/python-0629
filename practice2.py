@@ -1,2 +1,2 @@
 from random import *
-print(random()*10) # 0 ~ 1 사이 실수
+print(random()*10) # 도전과제 2
